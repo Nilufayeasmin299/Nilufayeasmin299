@@ -1,5 +1,5 @@
 - 👋 **Hi, I’m Nilufa Yeasmin** 
-     **Data Science, Machine Learning, Deep Learning and Cybersecurity Enthusiast**
+- **Data Science, Machine Learning, Deep Learning and Cybersecurity Enthusiast**
 - 👀 I’m interested in **Data Science, Machine Learning, Deep Learning**
 - 🌱 I’m currently learning **Phishing Detection
 - 💞️ I’m looking to collaborate on **Any Machine\Deep Learning project
