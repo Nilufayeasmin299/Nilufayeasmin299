@@ -1,7 +1,7 @@
 - 👋 **Hi, I’m Nilufa Yeasmin** 
 - **Data Science, Machine Learning, Deep Learning and Cybersecurity Enthusiast**
-- 👀 I’m interested in **Data Science, Machine Learning, Deep Learning**
-- 🌱 I’m currently learning **Phishing Detection
+- 👀 I’m interested in **Data Science, Bioinformatics, Machine Learning, Deep Learning**
+- 🌱 I’m currently learning **Phishing Detection using machine learning, deep learning and enseble learning
 - 💞️ I’m looking to collaborate on **Any Machine\Deep Learning project
 - 📫 How to reach me **nilufayeasmin299@gmail.com
 
