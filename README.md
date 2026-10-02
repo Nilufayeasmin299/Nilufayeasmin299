@@ -1,5 +1,5 @@
 - 👋 **Hi, I’m Most Nilufa Yeasmin** 
-- **AI, Machine Leaning and Computer Vision**
+- **My research interest is in AI, Machine Leaning and Computer Vision**
 
 
 
